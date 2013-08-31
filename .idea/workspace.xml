@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a578e02-b78f-4822-846f-d379c151b731" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AbstractTaskLoader.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377975000017" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377975139748" ignored="false" />
     <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="/SampleActivity.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377973652399" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377973714265" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/probojnik/AbstractTaskLoader/BuildConfig.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377974694641" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/probojnik/AbstractTaskLoader/BuildConfig.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377975302686" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +78,7 @@
       <file leaf-file-name="AbstractTaskLoader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="48" selection-end="84" vertical-scroll-proportion="0.0">
+            <state line="6" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,7 +87,7 @@
       <file leaf-file-name="SampleActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="34" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0549273">
+            <state line="16" column="25" selection-start="444" selection-end="444" vertical-scroll-proportion="0.41195476">
               <folding />
             </state>
           </provider>
@@ -93,7 +96,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+            <state line="8" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,10 +121,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
         <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -227,7 +230,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -397,6 +400,7 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\VLAD\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
@@ -451,8 +455,8 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -552,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="557" column="86" selection-start="30272" selection-end="30272" vertical-scroll-proportion="0.151463">
@@ -566,16 +563,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="48" selection-end="84" vertical-scroll-proportion="0.0">
+        <state line="6" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="34" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0549273">
+        <state line="16" column="25" selection-start="444" selection-end="444" vertical-scroll-proportion="0.41195476">
           <folding />
         </state>
       </provider>
