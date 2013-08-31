@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8a578e02-b78f-4822-846f-d379c151b731" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AbstractTaskLoader.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377977753226" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377977801665" ignored="false" />
     <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="/SampleActivity.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377977782930" ignored="false" />
@@ -78,7 +79,7 @@
       <file leaf-file-name="AbstractTaskLoader.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="122" selection-end="122" vertical-scroll-proportion="0.16478191">
+            <state line="6" column="9" selection-start="127" selection-end="127" vertical-scroll-proportion="0.16478191">
               <folding />
             </state>
           </provider>
@@ -87,7 +88,7 @@
       <file leaf-file-name="SampleActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+            <state line="15" column="13" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,7 +97,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+            <state line="7" column="9" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,9 +123,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
         <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -453,7 +454,11 @@
       <created>1377977756022</created>
       <updated>1377977756022</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="comment | description | 2">
+      <created>1377977803803</created>
+      <updated>1377977803803</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -526,7 +531,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment | description | 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment | description | 2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -546,6 +551,7 @@
     <MESSAGE value="zxczxc" />
     <MESSAGE value="comment | description" />
     <MESSAGE value="comment | description | 1" />
+    <MESSAGE value="comment | description | 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -578,21 +584,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+        <state line="7" column="9" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="122" selection-end="122" vertical-scroll-proportion="0.16478191">
+        <state line="6" column="9" selection-start="127" selection-end="127" vertical-scroll-proportion="0.16478191">
           <folding />
         </state>
       </provider>
