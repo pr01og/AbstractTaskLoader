@@ -12,5 +12,6 @@ public class SampleActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //asdasdasd
+        //22
     }
 }
