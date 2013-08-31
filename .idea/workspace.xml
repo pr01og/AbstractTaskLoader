@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a578e02-b78f-4822-846f-d379c151b731" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AbstractTaskLoader.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377974764346" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377974876787" ignored="false" />
     <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="/SampleActivity.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377973652399" ignored="false" />
@@ -75,25 +77,16 @@
       <file leaf-file-name="AbstractTaskLoader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="3" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="48" selection-end="84" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="534" column="57" selection-start="29644" selection-end="29644" vertical-scroll-proportion="-0.0103270225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SampleActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+            <state line="3" column="34" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0549273">
               <folding />
             </state>
           </provider>
@@ -119,6 +112,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -126,9 +120,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
         <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -432,7 +427,11 @@
       <created>1377974767056</created>
       <updated>1377974767056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="comment | description">
+      <created>1377974879239</created>
+      <updated>1377974879239</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -554,23 +553,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+        <state line="557" column="86" selection-start="30272" selection-end="30272" vertical-scroll-proportion="0.151463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="48" selection-end="84" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="534" column="57" selection-start="29644" selection-end="29644" vertical-scroll-proportion="-0.0103270225">
+        <state line="3" column="34" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0549273">
           <folding />
         </state>
       </provider>
