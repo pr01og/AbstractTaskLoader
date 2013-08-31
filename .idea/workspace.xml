@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8a578e02-b78f-4822-846f-d379c151b731" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" afterPath="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AbstractTaskLoader.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377975139748" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377975720791" ignored="false" />
     <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377965095646" ignored="false" />
     <file path="/SampleActivity.java" changelist="8a578e02-b78f-4822-846f-d379c151b731" time="1377973652399" ignored="false" />
@@ -75,19 +74,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractTaskLoader.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AbstractTaskLoader.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+            <state line="3" column="10" selection-start="62" selection-end="62" vertical-scroll-proportion="0.08239096">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SampleActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="444" selection-end="444" vertical-scroll-proportion="0.41195476">
+            <state line="5" column="10" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,9 +121,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java" />
       </list>
     </option>
   </component>
@@ -441,7 +440,11 @@
       <created>1377975001342</created>
       <updated>1377975001342</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="comment | description">
+      <created>1377975538309</created>
+      <updated>1377975538309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -514,7 +517,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment | description" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment | description | 1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -533,6 +536,7 @@
     <MESSAGE value="swse" />
     <MESSAGE value="zxczxc" />
     <MESSAGE value="comment | description" />
+    <MESSAGE value="comment | description | 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -570,16 +574,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="5" column="10" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/SampleActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/probojnik/AbstractTaskLoader/base/AbstractTaskLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="444" selection-end="444" vertical-scroll-proportion="0.41195476">
+        <state line="3" column="10" selection-start="62" selection-end="62" vertical-scroll-proportion="0.08239096">
           <folding />
         </state>
       </provider>

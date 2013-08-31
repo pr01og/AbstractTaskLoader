@@ -3,7 +3,7 @@ package com.probojnik.AbstractTaskLoader;
 import android.app.Activity;
 import android.os.Bundle;
 /**
- * @author: Stanislav Shamji
+ * @author Stanislav Shamji (probojnik@gmail.com)
  */
 public class SampleActivity extends Activity {
     /**
